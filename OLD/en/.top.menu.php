@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Catalogue", 
+		"catalog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"About us", 
+		"about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"News", 
+		"news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Projects", 
+		"projects/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Become our partner", 
+		"sotrudnichestvo/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Join our team", 
+		"vakansii/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Press", 
+		"press/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Delivery", 
+		"delivery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Contacts", 
+		"contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
